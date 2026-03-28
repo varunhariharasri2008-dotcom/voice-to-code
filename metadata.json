@@ -1,0 +1,7 @@
+{
+  "name": "VoiceCode Converter",
+  "description": "Convert natural language voice messages into code snippets and vice versa with AI-powered explanations and text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
